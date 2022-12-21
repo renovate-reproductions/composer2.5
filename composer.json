@@ -2,7 +2,7 @@
     "name": "rhys/composer1",
     "type": "project",
     "require": {
-        "monolog/monolog": "3.1.0"
+        "monolog/monolog": "3.2.0"
     },
     "authors": [
         {
