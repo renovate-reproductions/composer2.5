@@ -1,0 +1,13 @@
+{
+    "name": "rhys/composer1",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "3.1.0"
+    },
+    "authors": [
+        {
+            "name": "Rhys Arkins",
+            "email": "rhys@arkins.net"
+        }
+    ]
+}
